@@ -1,0 +1,8 @@
+# Python version
+python==3.10.7
+
+# Libraries used and their versions
+numpy==1.23.3
+pandas==1.5.1
+scikit-learn==1.2.1
+matplotlib==3.6.2
