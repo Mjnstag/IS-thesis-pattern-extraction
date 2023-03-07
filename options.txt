@@ -1,1 +1,2 @@
-scenario_dir=C:\Users\mjnst\Desktop\Thesis\Hanoi_CMH\Scenario-15
+hanoi_scenario_dir=C:\Users\mjnst\Desktop\Thesis\Hanoi_CMH\Scenario-15
+RUG_dir=C:\Users\mjnst\Desktop\Thesis\RUG_data_5years
