@@ -1,2 +1,4 @@
 hanoi_scenario_dir=C:\Users\mjnst\Desktop\Thesis\Hanoi_CMH\Scenario-1
 RUG_dir=C:\Users\mjnst\Desktop\Thesis\RUG_data_5years
+RUG_raw_csv=C:\Users\mjnst\Desktop\Thesis\rug_csv.csv
+RUG_timeseries=C:\Users\mjnst\Desktop\Thesis\rug_timeseries.pkl
