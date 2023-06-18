@@ -3,3 +3,4 @@ RUG_dir=C:\Users\mjnst\Desktop\Thesis\RUG_data_5years
 RUG_raw_csv=C:\Users\mjnst\Desktop\Thesis\rug_csv.csv
 RUG_timeseries=C:\Users\mjnst\Desktop\Thesis\rug_timeseries.pkl
 RUG_obfuscated=C:\Users\mjnst\Desktop\Thesis\obfuscated_data.pkl
+RUG_no_outliers=C:\Users\mjnst\Desktop\Thesis\obfuscated_data_rm_outlier.pkl
