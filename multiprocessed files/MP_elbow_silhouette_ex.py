@@ -102,7 +102,7 @@ def kmeans_sillouette(data):
     # Calculate WCSS and silhouette scores for 1 to 10 clusters
     for i in range(1, 10):
         kmeans_pca = TimeSeriesKMeans(
-            n_clusters=i, metric="dtw", n_jobs=-1).fit(data_copy)
+            n_clusters=i, metric="dtw").fit(data_copy)
         wcss.append(kmeans_pca.inertia_)
         try:
             silhouette_scores.append(silhouette_score(
