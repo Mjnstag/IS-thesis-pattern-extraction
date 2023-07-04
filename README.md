@@ -2,7 +2,9 @@
 
 overleaf link: https://www.overleaf.com/read/kjhnvsgsjzqr
 
+## Multiprocessed versions
 
+The multiprocessed versions of some of the notebooks related to creating graphs are located in the folder "multiprocessed files". Care should be taken to set a limit to the amount of resources, as otherwise all available cores will be used. 
 
 ## Project structure
 
