@@ -1,1 +1,1 @@
-RUG_no_outliers=C:\Users\mjnst\Desktop\Thesis\obfuscated_data_rm_outlier.pkl
+RUG_no_outliers=
