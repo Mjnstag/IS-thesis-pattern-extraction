@@ -1,2 +1,3 @@
 # ignore changes to options
 options_private.txt
+__pycache__
