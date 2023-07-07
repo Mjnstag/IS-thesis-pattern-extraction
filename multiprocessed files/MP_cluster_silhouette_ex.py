@@ -98,7 +98,7 @@ def create_kmeans(pca_data, scaled_train, scaled_test, clusters=4):
 # %%
 
 
-def plot_scores(scaled_list_train, train_lab, test_lab, column):
+def plot_scores(scaled_list_train, train_lab, column):
     fig, ax = plt.subplots((len(set(train_lab))))
     fig.suptitle(column)
     for pos, label in enumerate(set(train_lab)):
@@ -132,7 +132,7 @@ def average_cluster(column, col_name, n_cluster):
     train_lab, test_lab = create_kmeans(
         pca_features, scaled_list_train, scaled_list_test, n_cluster)
 
-    fig = plot_scores(scaled_list_train, train_lab, test_lab, col_name)
+    fig = plot_scores(scaled_list_train, train_lab, col_name)
     return fig
 # %%
 
